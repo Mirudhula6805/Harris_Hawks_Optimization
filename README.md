@@ -16,7 +16,9 @@ pip install scikit-learn
 
 ABOUT THE DATASET:
 The Heart Disease Dataset, available on Kaggle, is a compilation of data from four sources: Cleveland, Hungary, Switzerland, and Long Beach V. Originally collected in 1988, the dataset comprises 76 attributes related to heart disease diagnosis and patient information. However, most analyses and published experiments have focused on a subset of 14 key attributes. 
-Dataset Link: kaggle.com
+
+# Dataset Link: https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
+
 Key Attributes:
 1.	Age: Patient's age in years.
 
